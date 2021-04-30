@@ -1,0 +1,149 @@
+
+.container  {
+    background-color: #01858b;
+    color: honeydew;
+    width: 960px;
+    margin:  auto;
+    background-size: cover;
+    background-position: center;
+    justify-content: center;
+    font-family: 'Satisfy',cursive; 
+    
+}
+
+.container img {
+    display: block;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border: 5px solid #01858b;
+    margin-left:auto;
+    margin-right: auto;
+
+
+}
+
+.audio{
+    align-items: center;
+}
+
+.gallery{
+    display: block;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border: 5px solid #01858b;
+    margin-left:auto;
+    margin-right: auto;
+    border-radius: 10px;;
+
+}
+ 
+
+#box {
+    background-color: #01858b;
+    color:honeydew;
+    padding: 2vw 4vw;
+    box-shadow:.5vw .5vw 1.2vw #838383;
+    margin:auto;
+    text-align: center;
+
+}
+
+
+
+
+#review {
+    text-align: center;
+    justify-content: center;
+    margin:auto;
+    padding:1vw 1vw;
+}
+
+
+   
+
+  
+
+#tagline {
+    padding:2%;
+    font-size: 50px;
+    text-align: center;
+}
+
+
+
+.description {
+    justify-content: center;
+    padding:10%;
+    font-family: 'Satisfy',cursive;
+    font-size : 300px;
+    text-align: center;
+}
+
+
+.rating {
+font-family: 'Satisfy', cursive;
+justify-content: center;
+font-size: 20px;
+text-align: center;
+
+}
+
+
+
+
+
+/*
+.form {
+    padding-bottom: 1em;
+    border: 1px solid #01858b;
+    border-radius: 1em;
+    margin: 20px;
+    box-shadow: #01858b;
+    
+    
+} */
+
+#mail{
+    color: #01858b;
+    display:block;
+    text-align: center;
+    padding:2px;
+    font-size: 45px;
+    font-family: 'Satisfy', cursive;
+    
+}
+/*
+.label {
+    display: center;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    margin:0 auto;
+    list-style: none;
+    color:#01858b;
+    padding: 2px;
+    margin-top:20px;
+    
+}*/
+
+
+
+
+.copyright {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5em 0;
+    color:honeydew;
+    font-size:20px;
+  }
+   
+    
+
+.widgets{
+  position: relative;
+  right: 20px;
+  bottom: 5px;
+  }
